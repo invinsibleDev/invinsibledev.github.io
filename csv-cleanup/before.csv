@@ -1,0 +1,9 @@
+﻿customer_id,name,email,city
+00101, Ada Lovelace ,ADA@example.com, London 
+00102,Grace Hopper,grace@example.com,New York
+00101,Ada Lovelace,ada@example.com,London
+00103,Олена Коваль,olena@example.com,Bratislava
+00104,Sam Lee,sam@example.com,Paris
+00104,Sam Lee,sam@example.com,Lyon
+00105,"Lee, Morgan",morgan@example.com,Dublin
+00106,Pat Rivera,,Madrid

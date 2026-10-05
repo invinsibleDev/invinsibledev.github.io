@@ -1,0 +1,21 @@
+{
+  "synthetic_data": true,
+  "input_rows": 8,
+  "output_rows": 7,
+  "duplicate_source_rows_removed": [
+    4
+  ],
+  "records_needing_review": 2,
+  "rules": [
+    "Trim leading/trailing whitespace.",
+    "Lowercase email addresses for this sample only; real projects require agreement.",
+    "Remove only rows identical across all fields after the agreed normalization.",
+    "Keep conflicting rows and missing values for review.",
+    "Keep identifiers as text, including leading zeros."
+  ],
+  "limitations": [
+    "Not a client project.",
+    "No fuzzy matching, email verification, or invented values.",
+    "CSV spreadsheet imports must set customer_id to Text to preserve zeros."
+  ]
+}

@@ -1,0 +1,3 @@
+﻿customer_id,issue,values,action
+00104,conflicting_city,Paris | Lyon,Both rows retained; owner must choose.
+00106,missing_email,,Row retained; no address invented.
